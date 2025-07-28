@@ -1,0 +1,3 @@
+LABEL=writable  /       ext4    defaults        0       1
+LABEL=system-boot       /boot/firmware  vfat    defaults        0       1
+LABEL=storage /mnt/storage ext4 defaults 0 0
